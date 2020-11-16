@@ -3,7 +3,7 @@ title: 'Share One Previous Project'
 date: '4'
 ---
 
-# | University Projects Overview
+# | University Projects
 In univeresity, we started having projects in Year 2, ranging from:
 - Mobile Applications
 - System Analysis
