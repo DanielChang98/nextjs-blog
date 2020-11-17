@@ -6,17 +6,19 @@ import { getAllPostIds, getPostData } from '../../lib/posts'
 
 export default function Post({ postData }) {
     return (
-      <Layout>
-        <Head>
-            <title>{postData.title}</title>
-        </Head>
-        <article>
-            <div className={utilStyles.questionContainer}>
-                <h1 className={utilStyles.headingXl}>{postData.title}</h1>
-                <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} className={utilStyles.questionContent} />
-            </div>
-        </article>
-      </Layout>
+      <div className={utilStyles.contentBigContainer}> 
+        <Layout>
+          <Head>
+              <title>{postData.title}</title>
+          </Head>
+          <article>
+              <div className={utilStyles.questionContainer}>
+                  <h1 className={utilStyles.headingXl}>{postData.title}</h1>
+                  <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} className={utilStyles.questionContent} />
+              </div>
+          </article>
+        </Layout>
+      </div>
     )
   }
 
