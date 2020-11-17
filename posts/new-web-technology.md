@@ -8,7 +8,7 @@ date: '3'
 # | What is Next.js?
 Next.js is a **React** web framework that was developed by Vercel. Just like **React**, Next.js requires Node.js 
 to be used. Next.js was initially launched on **25th October 2016**, making it 4 years old now. 
-> Next.js's slogan is "The React Framework For Production", which we will touch on later.
+> Next.js's slogan is **"The React Framework For Production"**, which we will touch on later.
 
 Also, Next.js has been used by companies like Netflix, Github, Uber and Starbucks.
 
@@ -59,7 +59,7 @@ With my basic knowledge about React, I can see why Next.js is a preferred choice
  As mentioned in the beginning, Next.js is the React framework built for production. 
  If we compare it to React, the benefits are:
  ### 1. Server Side Rendering
-With Next.js, it builds the HTML page at **build time** and sends the pre-rendered page from server to browser 
+With Next.js, it sends the pre-rendered page from server to browser 
 with minimal JavaScript code. When page is loaded by browser, its JavaScript code runs and makes 
 the page fully interactive. (This Process is called **Hydration**)
 ![Hydration of JS](/hydration.png)
@@ -69,10 +69,10 @@ where the web app will not display if without JavaScript.
 
 > Performance study by [LogRocket](https://blog.logrocket.com/next-js-vs-create-react-app/) on SSR vs CSR.
 
-There are other options as well (Static Generation) which you can customize to specific pages.
+There are other options as well (Static Generation) which you can customize to specific pages. Static Generation allows the HTML pages to be generated at **build time**.
 
 ### 2. Code Splitting
-Next.js make code splitting easy compared to React. Code splitting can improve peformance because the user 
+Next.js makes code splitting easier compared to React. Code splitting can improve peformance because the user 
 receive only the code needed for that page. There are 2 levels to code splitting:
 - **Route based** -> All the code related to that route is sent to the user.
 - **Components based** -> Only the code for components that are required are sent to the user.

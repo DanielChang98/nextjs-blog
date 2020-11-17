@@ -4,7 +4,7 @@ date: '4'
 ---
 
 # | University Projects
-In univeresity, we started having projects in Year 2, ranging from:
+In university, we started having projects in Year 2, ranging from:
 - Mobile Applications
 - System Analysis
 - Web Development
@@ -14,8 +14,8 @@ submission.
 
 # | FoodForUs
 With Google Solutions being centered around solving community issues, **FoodForUs** is a 
-community-based mobile application that deals with food waste issues in Penang. The idea of it 
-is to donate extra food to the needy by any civilian.
+community-based mobile application that deals with food wastage issues in Penang. The idea of it 
+is to donate excess food to the needy by any civilian.
 
 > View the demo [here](https://www.youtube.com/watch?v=URb7_GEj3tg&feature=youtu.be).
 
@@ -39,7 +39,7 @@ the functionalities often became more instead of the opposite.
 ### 1. Being Resourceful
 USM School of Computer Science has instilled this value in us since the beginning. For every project, 
 we had to be resourceful - read and learn the languages ourselves, implementing new technologies 
-into our projects.
+into our projects ourselves.
 
 Hence, it did not faze us that we were not experienced. We just had to work harder.
 
@@ -55,11 +55,11 @@ prevent us neglecting our schoolwork as well.
 # | Lessons Learnt
 There are 3 aspects on what I learnt through this experience:
 ### 1. Technology and Values
-I definitely would say that I learnt more about technology - Git, Firebase, Android Studio, etc- after 
+I definitely would say that I learnt more about technology - Git, Firebase, Android Studio, etc - after 
 working on this project. Not only that, but also the ***values*** we need to have in learning new things.
 
 Being tenacious, having grit, being resourceful and also a good mindset is required when learning about 
-developing new applications.
+developing new applications, using new technologies.
 
 ### 2. Development Process
 At the end of the competition, I reflected on what should be done instead so that the whole process would 

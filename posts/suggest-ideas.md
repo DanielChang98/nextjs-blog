@@ -11,7 +11,7 @@ Since the question is related to websites, there are many factors that can cause
 
 # | Why
 ### 1. High Server Load
-When each user accesses the page, they will send a request to the server. High request per second equates to high load. If the server cannot accomodate the request, the users will experience slow website loading.
+When each user accesses the page, they will send requests to the server. High request per second equates to high load. If the server cannot accomodate the requests, the users will experience slow website loading.
 
 When the processing power is at its maximum, bottleneck occurs, causing the website to crash.
 
