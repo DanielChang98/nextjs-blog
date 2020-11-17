@@ -29,7 +29,7 @@ export default function Home({ allPostsData }) {
       </Div>
       <Div>
         <div className={styles.durationHeader}>
-          <h2 className={fonts.durationHeader}>Questions</h2>
+          <h1 className={fonts.durationHeader}>Questions</h1>
         </div>
         <div className={styles.questionBody} id="questions">
           <ul className={styles.list}>

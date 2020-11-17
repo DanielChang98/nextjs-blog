@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@300;400&display=swap');
 
 .durationHeader{
-    font-family: 'Roboto Slab Black';
-    font-weight: 900;
+    /* font-family: 'Roboto Slab Black'; */
+    /* font-weight: 900; */
     font-size: 3.5rem;
     color: #F1C405;
 }

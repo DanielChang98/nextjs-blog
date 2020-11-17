@@ -6,7 +6,7 @@ date: '5'
 # | Previous Work Experiences
 ![Working Timeline](/job-timeline.png)
 
-Looking back at my previous job experiences, I reflected on why I applied for those jobs.  
+Looking back at my previous job experiences, I reflected on why I applied for those jobs. 
 The reasons are mainly:
 ### 1. Exposure
 Before enrolling into university, I wanted to experience different working fields. Hence, why I started off with exhibitions. Then moving to office work like marketing. After I decided to study Computer Science, I applied to SELLBYTEL, where I was trained in computer hardware knowledge.
