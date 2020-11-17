@@ -149,17 +149,17 @@
 
 .questionContent h1{
     color: #e3e0fc;
-    font-family: Roboto Black;
+
     font-size: 2rem;
 }
 
 .questionContent h2{
     color: #e94560;
-    font-family: Roboto Regular;
+    font-family: 'Roboto Regular';
 }
 
 .questionContent h3{
-    font-family: Roboto Regular;
+    /* font-family: 'Roboto Regular'; */
     color: #e94560;
 }
 

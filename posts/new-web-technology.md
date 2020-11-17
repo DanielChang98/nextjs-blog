@@ -1,5 +1,5 @@
 ---
-title: 'Tell us About a Newer Web Technology you Like. '
+title: 'Tell us About a Newer Web Technology you Like'
 date: '3'
 ---
 
