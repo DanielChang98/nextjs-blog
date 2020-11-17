@@ -7,6 +7,8 @@ import Head from 'next/head'
 import fonts from '../styles/fonts.module.css'
 import Cards from '../components/cards'
 import { getSortedPostsData } from '../lib/posts'
+import underline from '../styles/underline.module.css'
+
 
 export async function getStaticProps(){
   const allPostsData = getSortedPostsData()
@@ -29,7 +31,7 @@ export default function Home({ allPostsData }) {
       </Div>
       <Div>
         <div className={styles.durationHeader}>
-          <h1 className={fonts.durationHeader}>Questions</h1>
+          <h1 className={fonts.durationHeader}><a className={underline.underlinemagical}>Questions</a></h1>
         </div>
         <div className={styles.questionBody} id="questions">
           <ul className={styles.list}>

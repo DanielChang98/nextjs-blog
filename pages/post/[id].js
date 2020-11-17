@@ -2,6 +2,7 @@ import Layout from '../../components/layout'
 import Head from 'next/head'
 import utilStyles from '../../styles/utils.module.css'
 import { getAllPostIds, getPostData } from '../../lib/posts'
+import underline from '../../styles/underline.module.css'
 
 
 export default function Post({ postData }) {
@@ -13,7 +14,7 @@ export default function Post({ postData }) {
           </Head>
           <article>
               <div className={utilStyles.questionContainer}>
-                  <h1 className={utilStyles.headingXl}>{postData.title}</h1>
+                  <h1 className={utilStyles.headingXl}><a className={underline.underlinemagical}>{postData.title}</a></h1>
                   <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} className={utilStyles.questionContent} />
               </div>
           </article>
