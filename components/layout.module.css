@@ -7,9 +7,14 @@
 }
 
 .container2{
-  max-width: 36rem;
-  padding: 0 1rem;
-  margin: 3rem auto 6rem;
+  /* max-width: 36rem; */
+  /* padding: 0 1rem; */
+  /* margin: 3rem auto 6rem; */
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  background-color: aqua;
 }
 
 .header {
