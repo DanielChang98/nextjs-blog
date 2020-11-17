@@ -31,7 +31,7 @@ export default function Home({ allPostsData }) {
         <div className={styles.durationHeader}>
           <h2 className={fonts.durationHeader}>Questions</h2>
         </div>
-        <div className={styles.questionBody}>
+        <div className={styles.questionBody} id="questions">
           <ul className={styles.list}>
             {allPostsData.map((cards) => (
               <li className={styles.listItem} key={cards.id}>
