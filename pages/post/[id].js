@@ -14,7 +14,7 @@ export default function Post({ postData }) {
           </Head>
           <article>
               <div className={utilStyles.questionContainer}>
-                  <h1 className={utilStyles.headingXl}><a className={underline.underlinemagical}>{postData.title}</a></h1>
+                  <h1 className={utilStyles.headingXl}>{postData.title}</h1>
                   <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} className={utilStyles.questionContent} />
               </div>
           </article>
