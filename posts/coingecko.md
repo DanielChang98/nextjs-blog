@@ -14,9 +14,7 @@ with exhibitions. Then moving to office work like marketing. After I decided to 
 I applied to SELLBYTEL, where I was trained in computer hardware knowledge.
 
 ### 2. Supportive Space
-Most jobs I have done them with my friends. I realized a healthy support network is crucial when the  
-going gets tough. For example, during my work in Big Bad Wolf, we had to endure the 7pm -7am shift.  
-Without strong and equal-minded people around, the journey would have been much tougher.
+Most jobs I have done them with my friends. I realized a healthy support network is crucial when the going gets tough. For example during my work in Big Bad Wolf, we had to endure the 7pm -7am shift. Without strong and equal-minded people around, the journey would have been much tougher.
 
 Same goes to my other jobs. The people there were very encouraging even though I was lacking in  
 terms of experience.
