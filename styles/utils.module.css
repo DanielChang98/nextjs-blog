@@ -28,6 +28,7 @@
   line-height: 1.4;
   margin: 1rem 0;
   color: #f1c40f;
+  font-weight: 400;
 }
 
 .headingMd {
@@ -144,7 +145,6 @@
   display: flex;
   align-content: center;
 }
-
 
 .questionContent{
     width: fit-content;
