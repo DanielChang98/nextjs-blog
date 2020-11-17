@@ -31,7 +31,7 @@ Not only that, I have no solid knowledge about cryptocurrency, albeit popular no
 can surely broaden my horizons if I interned at CoinGecko. (and finally make sense of crypto)
 ### 3. Company Achievements
 CoinGecko has made quite the name for itself after operating for only 6 years. With all research 
-collaborations, media coverage, and also bulding the world's largest cryptocurrency data platform, 
+collaborations, media coverage, and also building the world's largest cryptocurrency data platform, 
 this would have been impossible if without a good company vision and a good team. (both which I value)
 
 # | Summary

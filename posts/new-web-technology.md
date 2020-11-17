@@ -21,7 +21,7 @@ more and more roadblocks as we planned our project, mainly:
 3. We had to learn about React router on top of React.
 4. We are not very proficient with Javascript.
 
-However, I was adamant in using React, since it would benefit us more in the long run.While i was 
+However, I was adamant in using React, since it would benefit us more in the long run. While i was 
 doing some research for this question, I came across Next.js and decided to give it a go and 
 learn more about it.
 
