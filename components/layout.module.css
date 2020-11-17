@@ -7,14 +7,13 @@
 }
 
 .container2{
-  min-width: 36rem;
-  /* padding: 0 1rem; */
-  /* margin: 3rem auto 6rem; */
+  width: inherit;
+  padding-top: 1rem;
   display: flex;
   flex-direction: column;
   align-content: center;
   justify-content: center;
-  background-color: aqua;
+  background-color: blue;
 }
 
 .header {
