@@ -24,7 +24,7 @@ Stacks have the following characteristics:
 1. Having **2** primary operations: 
 - **push()** - adds to the top of the stack. 
 - **pop()** - remove the most top element.
-2. Only **1** pointer is used: `top`
+2. Only **1** pointer is used: `top`, which points to the top element.
 
 ![Stack Operations](/stack-operations.png)
 
@@ -45,8 +45,8 @@ Queues have the following characteristics:
 - **enqueue()** = adding to the back of the queue.
 - **dequeue()** = polling the front of the queue.
 2. **Two** pointers are used:
-- `front`
-- `back/rear`
+- `front`, points to the first element of the queue.
+- `back/rear`, points to the last element of the queue.
 
 ![Queue Operationns](/queue-operations.gif)
 
