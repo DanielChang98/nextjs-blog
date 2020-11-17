@@ -6,12 +6,12 @@ date: '2'
 
 # | ELI5  
 ## Stack
-Stack is just like a Pringles can. The last chip you placed, is the first chip to be removed.  
+Stack is just like a Pringles can. The last chip you placed, is the first chip to be removed. 
 This concept is called **Last In First Out (LIFO)**.
 ![Pringles Can](/pringles.jpg)
 
 ## Queue
-Queue is like a real-world queue at the cinema. The first customer to arrive gets to buy the tickets first.  
+Queue is like a real-world queue at the cinema. The first customer to arrive gets to buy the tickets first. 
 This is called **First In First Out (FIFO)**.
 
 ![Queue Example](/queue.png)
@@ -19,9 +19,9 @@ This is called **First In First Out (FIFO)**.
 
 # | Data Structure Talk
 ## Stack
-A `stack` is a one-ended linear data structure that models a real-world stack.  
+A `stack` is a one-ended linear data structure that models a real-world stack. 
 Stacks have the following characteristics:  
-1. Having **2** primary operations:  
+1. Having **2** primary operations: 
 - **push()** - adds to the top of the stack. 
 - **pop()** - remove the most top element.
 2. Only **1** pointer is used: `top`
@@ -39,9 +39,9 @@ Stacks have the following characteristics:
 ![Stack Time Complexity](/selection(2).png)
 
 ## Queue
-A `queue` is a linear data structure that models a real-life queue.  
-Queues have the following characteristics:  
-1. Having **2** primary characteristics:  
+A `queue` is a linear data structure that models a real-life queue. 
+Queues have the following characteristics: 
+1. Having **2** primary characteristics: 
 - **enqueue()** = adding to the back of the queue.
 - **dequeue()** = polling the front of the queue.
 2. **Two** pointers are used:
