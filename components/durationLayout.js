@@ -5,7 +5,7 @@ export default function duration(){
     return(
         <>
         <div className={styles.durationHeader}>
-        <h2 className={fonts.durationHeader}>Internship Duration</h2>
+        <h1 className={fonts.durationHeader}>Internship Duration</h1>
         </div>
         <div className={styles.durationContent}>
             <div className={styles.durationMainCircleLeft}>
