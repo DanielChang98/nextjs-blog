@@ -2,6 +2,7 @@ import Head from 'next/head'
 import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
+import Button from '@material-ui/core/Button';
 
 const name = 'Chang Phang Wei'
 export const siteTitle = 'CoinGecko Application'
@@ -78,8 +79,10 @@ export default function Layout({ children, home }) {
       <main>{children}</main>
       {!home && (
         <div className={styles.backToHome}>
-          <Link href="/">
-            <a>← Back to home</a>
+          <Link href="/#questions">
+            <a> <Button variant="contained" color="primary">
+            ← Back to home
+              </Button></a>
           </Link>
         </div>
       )}

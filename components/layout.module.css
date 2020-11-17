@@ -13,7 +13,6 @@
   flex-direction: column;
   align-content: center;
   justify-content: center;
-  background-color: blue;
 }
 
 .header {
@@ -33,7 +32,10 @@
 }
 
 .backToHome {
-  margin: 3rem 20rem 0;
+  /* margin: 3rem 20rem 0; */
+  padding-left: 1rem;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
 }
 
 .logoBar{
