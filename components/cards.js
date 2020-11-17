@@ -38,12 +38,12 @@ export default function SimpleCard(postData) {
 
   return (
     <Card className={classes.root}>
-      <CardContent style={{background: 'linear-gradient(to right bottom, #FE6B8B, #82ffa1)'}}>
+      <CardContent style={{background: 'linear-gradient(to right, #E3E0FC, #FFFFFF, #E3E0FC)'}}>
         <Typography variant="h6" component="h4">
           {title}
         </Typography>
       </CardContent>
-      <CardActions>
+      <CardActions style={{background: 'linear-gradient(to right, #E3E0FC, #FFFFFF, #E3E0FC)'}}>
         <Button size="small">Learn More</Button>
       </CardActions>
     </Card>
