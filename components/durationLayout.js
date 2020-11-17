@@ -1,11 +1,12 @@
 import fonts from '../styles/fonts.module.css'
 import styles from '../styles/utils.module.css'
+import underline from '../styles/underline.module.css'
 
 export default function duration(){
     return(
         <>
         <div className={styles.durationHeader}>
-        <h1 className={fonts.durationHeader}>Internship Duration</h1>
+        <h1 className={fonts.durationHeader}><a className={underline.underlinemagical}>Internship Duration</a></h1>
         </div>
         <div className={styles.durationContent}>
             <div className={styles.durationMainCircleLeft}>
