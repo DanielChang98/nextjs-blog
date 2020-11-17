@@ -17,6 +17,7 @@
   letter-spacing: -0.05rem;
   display: flex;
   justify-content: center;
+  align-content: center;
   text-align: center;
   font-family: Roboto Slab Black;
   color: #f1c40f;
