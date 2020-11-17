@@ -151,6 +151,7 @@
 
 .questionContent{
     width: fit-content;
+    max-width: 45rem;
     margin: auto;
     color: white;
     text-align: justify;
