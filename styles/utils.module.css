@@ -138,6 +138,82 @@
   margin: auto;
 }
 
+.educationContainer{
+  display: flex;
+  flex: 2;
+  flex-direction: row;
+}
+
+.educationLeftContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.educationRightContainer{
+  display: flex;
+  justify-content: center;
+  align-items: left;
+  flex-direction: column;
+}
+
+.educationImage{
+  height: 70%;
+  width: 70%;
+  background-color: #f1c40f;
+}
+
+.languagesContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 7rem;
+  padding-bottom: 10rem;
+}
+
+.languagesImage{
+  width: 50%;
+  height: 90%;
+}
+
+.workFlexBox{
+  flex-direction: row;
+  flex: 2;
+  display: flex;
+}
+
+.workLeft{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.workImage{
+  width: 50%;
+}
+
+.workText{
+  display: flex;
+  justify-content: center;
+  align-items: left;
+  flex-direction: column;
+}
+
+.projectImage{
+  padding-top: 4rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  padding-bottom: 2rem;
+}
+
+.projectDesc{
+  text-align: center;
+  font-family: 'Roboto';
+  font: 1rem;
+  color: white;
+  font-weight: 300;
+}
+
 .questionBody{
   flex: 3;
   flex-direction:row ;

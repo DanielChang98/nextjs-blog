@@ -2,6 +2,10 @@ import Layout, { siteTitle } from '../components/layout'
 import styles from '../styles/utils.module.css'
 import Div from '../components/divCustom'
 import Duration from '../components/durationLayout'
+import Education from '../components/education'
+import InternshipProject from '../components/internshipProject'
+import ProgrammingLanguages from '../components/programmingLanguages'
+import WorkExperience from '../components/workExperience'
 import Link from 'next/link'
 import Head from 'next/head'
 import fonts from '../styles/fonts.module.css'
@@ -23,11 +27,20 @@ export default function Home({ allPostsData }) {
   return (
     < >
       <Head>
-        <title>Application Home</title>
+        <title>Resume - Chang Phang Wei</title>
       </Head>
       <Layout home></Layout>
       <Div>
-        <Duration></Duration>
+        <Education></Education>
+      </Div>
+      <Div>
+        <ProgrammingLanguages></ProgrammingLanguages>
+      </Div>
+      <Div>
+        <WorkExperience></WorkExperience>
+      </Div>
+      <Div>
+        <InternshipProject></InternshipProject>
       </Div>
       <Div>
         <div className={styles.durationHeader}>
