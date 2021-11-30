@@ -49,7 +49,7 @@ export default function Layout({ children, home }) {
             </div>
             <section className={utilStyles.headingMd}>
               <p>I'm a student from USM, majoring in Software Engineering and minoring in Mathematics. <br></br>
-                Interested in getting an internship position in CoinGecko!
+                Interested in joining the company!
               </p>
             </section>
             </header>
